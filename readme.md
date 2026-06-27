@@ -10,7 +10,7 @@ Welcome to the UI/UX Resource Library. This repository contains curated referenc
 
 ## Directory Structure
 
-This library is organized into fourteen core reference modules:
+This library is organized into fifteen core reference modules:
 
 ### 1. Component Guides
 A complete reference detailing descriptions, use cases, visual design best practices, do's & don't, and accessibility (a11y) rules for every component in the shadcn/ui ecosystem.
@@ -67,6 +67,10 @@ A comprehensive quick-reference cheat sheet of all keyboard hotkeys for Figma de
 ### 14. Affinity Suite Keyboard Shortcuts (Windows)
 A comprehensive quick-reference cheat sheet of all keyboard hotkeys for Affinity Designer, Photo, and Publisher workspaces on Windows.
 * **File**: [affinity_shortcuts_windows.md](file:///C:/Users/pacif/Desktop/UIUX/affinity_shortcuts_windows.md)
+
+### 15. Free Web Fonts & CDN Embedding Guide
+A curated guide listing lightweight, free Sans-Serif, Serif, Monospace, and Display web fonts with CDN embedding imports and Tailwind config mapping.
+* **File**: [free_cdn_fonts.md](file:///C:/Users/pacif/Desktop/UIUX/free_cdn_fonts.md)
 
 ---
 
