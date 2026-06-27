@@ -10,7 +10,7 @@ Welcome to the UI/UX Resource Library. This repository contains curated referenc
 
 ## Directory Structure
 
-This library is organized into nineteen core reference modules:
+This library is organized into twenty core reference modules:
 
 ### 1. Component Guides
 A complete reference detailing descriptions, use cases, visual design best practices, do's & don't, and accessibility (a11y) rules for every component in the shadcn/ui ecosystem.
@@ -87,6 +87,10 @@ A master reference guide on digital color models (HSL vs. RGB), harmonies, color
 ### 19. Usability, Visual Hierarchy & Accessibility (a11y) Master Guide
 A comprehensive reference guide on interface usability laws (Jakob's, Fitts's, Hick's, Miller's), eye-scanning patterns (F and Z), WCAG keyboard accessibility standards, semantic landmarks, and viewport breakout layouts.
 * **File**: [usability_hierarchy_accessibility.md](file:///C:/Users/pacif/Desktop/UIUX/usability_hierarchy_accessibility.md)
+
+### 20. Loading States, Spinners & Skeleton Screens Master Guide
+A comprehensive reference guide detailing perceived wait psychology, duration-based loader selection charts, Tailwind code snippets (spinners, skeletons, progress bars), node/terminal loading packages, and UX performance practices.
+* **File**: [loading_states.md](file:///C:/Users/pacif/Desktop/UIUX/loading_states.md)
 
 ---
 
