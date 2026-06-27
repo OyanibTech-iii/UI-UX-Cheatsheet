@@ -10,7 +10,7 @@ Welcome to the UI/UX Resource Library. This repository contains curated referenc
 
 ## Directory Structure
 
-This library is organized into eight core reference modules:
+This library is organized into nine core reference modules:
 
 ### 1. Component Guides
 A complete reference detailing descriptions, use cases, visual design best practices, do's & don't, and accessibility (a11y) rules for every component in the shadcn/ui ecosystem.
@@ -43,6 +43,10 @@ A developer-focused guide for configuring and utilizing custom cubic-bezier timi
 ### 8. Tailwind Cursor & Pointer Tracking Effects
 A guide detailing how to build custom cursors, spotlight-reveal cards, magnetic CTA components, and interactive 3D card tilt shaders using Tailwind CSS and Vanilla JS variables.
 * **File**: [tailwind_cursor_tracking.md](file:///C:/Users/pacif/Desktop/UIUX/tailwind_cursor_tracking.md)
+
+### 9. Tailwind Parallax Effects
+A developer-focused guide detailing how to implement hardware-accelerated 3D scroll parallax layers and mouse-interactive hover-depth layers using Tailwind CSS.
+* **File**: [tailwind_parallax_effects.md](file:///C:/Users/pacif/Desktop/UIUX/tailwind_parallax_effects.md)
 
 ---
 
