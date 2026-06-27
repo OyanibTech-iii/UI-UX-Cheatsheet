@@ -10,10 +10,10 @@ Welcome to the UI/UX Resource Library. This repository contains curated referenc
 
 ## Directory Structure
 
-This library is organized into five core reference modules:
+This library is organized into six core reference modules:
 
 ### 1. Component Guides
-A complete reference detailing descriptions, use cases, visual design best practices, do's & don'ts, and accessibility (a11y) rules for every component in the shadcn/ui ecosystem.
+A complete reference detailing descriptions, use cases, visual design best practices, do's & don't, and accessibility (a11y) rules for every component in the shadcn/ui ecosystem.
 * **File**: [Ui_Ux_notes.md](file:///C:/Users/pacif/Desktop/UIUX/Ui_Ux_notes.md)
 
 ### 2. Inspiration Directories
@@ -31,6 +31,10 @@ A list of charting and data visualization libraries categorized by framework com
 ### 5. Tailwind CSS Cheat Sheet
 A developer-focused guide outlining Tailwind v3 and v4 installation procedures, everyday utility snippets, custom theme styles, font integrations, and 3D transform animations.
 * **File**: [tailwind_cheatsheet.md](file:///C:/Users/pacif/Desktop/UIUX/tailwind_cheatsheet.md)
+
+### 6. Framer Motion Animation Guide
+A guide to implementing web animations in React using Framer Motion, detailing variants, exit transitions, layout morphing, performance tools, and accessibility support.
+* **File**: [framer_motion_guide.md](file:///C:/Users/pacif/Desktop/UIUX/framer_motion_guide.md)
 
 ---
 
