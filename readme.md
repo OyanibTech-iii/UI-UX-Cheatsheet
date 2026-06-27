@@ -10,7 +10,7 @@ Welcome to the UI/UX Resource Library. This repository contains curated referenc
 
 ## Directory Structure
 
-This library is organized into four core reference modules:
+This library is organized into five core reference modules:
 
 ### 1. Component Guides
 A complete reference detailing descriptions, use cases, visual design best practices, do's & don'ts, and accessibility (a11y) rules for every component in the shadcn/ui ecosystem.
@@ -27,6 +27,10 @@ A registry of free, open-source SVG icon sets, multi-weight asset libraries, SVG
 ### 4. Graph and Chart Libraries
 A list of charting and data visualization libraries categorized by framework complexity, tailwind integration, low-level customized needs, and high-performance requirements.
 * **File**: [graph_libraries.md](file:///C:/Users/pacif/Desktop/UIUX/graph_libraries.md)
+
+### 5. Tailwind CSS Cheat Sheet
+A developer-focused guide outlining Tailwind v3 and v4 installation procedures, everyday utility snippets, custom theme styles, font integrations, and 3D transform animations.
+* **File**: [tailwind_cheatsheet.md](file:///C:/Users/pacif/Desktop/UIUX/tailwind_cheatsheet.md)
 
 ---
 
