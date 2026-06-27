@@ -10,7 +10,7 @@ Welcome to the UI/UX Resource Library. This repository contains curated referenc
 
 ## Directory Structure
 
-This library is organized into eleven core reference modules:
+This library is organized into thirteen core reference modules:
 
 ### 1. Component Guides
 A complete reference detailing descriptions, use cases, visual design best practices, do's & don't, and accessibility (a11y) rules for every component in the shadcn/ui ecosystem.
@@ -55,6 +55,14 @@ A guide outlining how to design transitions, transformations, group-hover and pe
 ### 11. Interactive Motion & Motion Design Resource Directory
 A curated collection of free libraries, WebGL editors, Lottie animation catalogs, CSS timeline generators, and interactive inspiration galleries.
 * **File**: [motion_design_resources.md](file:///C:/Users/pacif/Desktop/UIUX/motion_design_resources.md)
+
+### 12. Figma Keyboard Shortcuts (Windows)
+A comprehensive quick-reference cheat sheet of all keyboard hotkeys for Figma design, vector editing, components, auto layout, and multiplayer operations on Windows.
+* **File**: [figma_shortcuts_windows.md](file:///C:/Users/pacif/Desktop/UIUX/figma_shortcuts_windows.md)
+
+### 13. Figma Keyboard Shortcuts (macOS)
+A comprehensive quick-reference cheat sheet of all keyboard hotkeys for Figma design, vector editing, components, auto layout, and multiplayer operations on macOS.
+* **File**: [figma_shortcuts_mac.md](file:///C:/Users/pacif/Desktop/UIUX/figma_shortcuts_mac.md)
 
 ---
 
