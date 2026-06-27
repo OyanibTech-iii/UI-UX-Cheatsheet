@@ -10,7 +10,7 @@ Welcome to the UI/UX Resource Library. This repository contains curated referenc
 
 ## Directory Structure
 
-This library is organized into seven core reference modules:
+This library is organized into eight core reference modules:
 
 ### 1. Component Guides
 A complete reference detailing descriptions, use cases, visual design best practices, do's & don't, and accessibility (a11y) rules for every component in the shadcn/ui ecosystem.
@@ -39,6 +39,10 @@ A guide to implementing web animations in React using Framer Motion, detailing v
 ### 7. Tailwind Tweening & Interpolation Curves
 A developer-focused guide for configuring and utilizing custom cubic-bezier timing functions, spring-like movements, and advanced easing transitions inside Tailwind CSS v3 and v4.
 * **File**: [tailwind_tweening_functions.md](file:///C:/Users/pacif/Desktop/UIUX/tailwind_tweening_functions.md)
+
+### 8. Tailwind Cursor & Pointer Tracking Effects
+A guide detailing how to build custom cursors, spotlight-reveal cards, magnetic CTA components, and interactive 3D card tilt shaders using Tailwind CSS and Vanilla JS variables.
+* **File**: [tailwind_cursor_tracking.md](file:///C:/Users/pacif/Desktop/UIUX/tailwind_cursor_tracking.md)
 
 ---
 
