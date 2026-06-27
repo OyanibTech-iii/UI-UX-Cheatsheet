@@ -10,7 +10,7 @@ Welcome to the UI/UX Resource Library. This repository contains curated referenc
 
 ## Directory Structure
 
-This library is organized into six core reference modules:
+This library is organized into seven core reference modules:
 
 ### 1. Component Guides
 A complete reference detailing descriptions, use cases, visual design best practices, do's & don't, and accessibility (a11y) rules for every component in the shadcn/ui ecosystem.
@@ -35,6 +35,10 @@ A developer-focused guide outlining Tailwind v3 and v4 installation procedures, 
 ### 6. Framer Motion Animation Guide
 A guide to implementing web animations in React using Framer Motion, detailing variants, exit transitions, layout morphing, performance tools, and accessibility support.
 * **File**: [framer_motion_guide.md](file:///C:/Users/pacif/Desktop/UIUX/framer_motion_guide.md)
+
+### 7. Tailwind Tweening & Interpolation Curves
+A developer-focused guide for configuring and utilizing custom cubic-bezier timing functions, spring-like movements, and advanced easing transitions inside Tailwind CSS v3 and v4.
+* **File**: [tailwind_tweening_functions.md](file:///C:/Users/pacif/Desktop/UIUX/tailwind_tweening_functions.md)
 
 ---
 
