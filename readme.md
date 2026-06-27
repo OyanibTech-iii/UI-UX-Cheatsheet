@@ -10,7 +10,7 @@ Welcome to the UI/UX Resource Library. This repository contains curated referenc
 
 ## Directory Structure
 
-This library is organized into fifteen core reference modules:
+This library is organized into sixteen core reference modules:
 
 ### 1. Component Guides
 A complete reference detailing descriptions, use cases, visual design best practices, do's & don't, and accessibility (a11y) rules for every component in the shadcn/ui ecosystem.
@@ -71,6 +71,10 @@ A comprehensive quick-reference cheat sheet of all keyboard hotkeys for Affinity
 ### 15. Free Web Fonts & CDN Embedding Guide
 A curated guide listing lightweight, free Sans-Serif, Serif, Monospace, and Display web fonts with CDN embedding imports and Tailwind config mapping.
 * **File**: [free_cdn_fonts.md](file:///C:/Users/pacif/Desktop/UIUX/free_cdn_fonts.md)
+
+### 16. Google Fonts Classification & Directory
+A curated type directory classifying the most popular and highly functional Google Fonts into Sans-Serif, Serif, Display, Handwriting/Script, and Monospace sub-categories.
+* **File**: [google_fonts_categories.md](file:///C:/Users/pacif/Desktop/UIUX/google_fonts_categories.md)
 
 ---
 
