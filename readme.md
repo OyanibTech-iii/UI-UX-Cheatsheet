@@ -10,7 +10,7 @@ Welcome to the UI/UX Resource Library. This repository contains curated referenc
 
 ## Directory Structure
 
-This library is organized into sixteen core reference modules:
+This library is organized into seventeen core reference modules:
 
 ### 1. Component Guides
 A complete reference detailing descriptions, use cases, visual design best practices, do's & don't, and accessibility (a11y) rules for every component in the shadcn/ui ecosystem.
@@ -45,7 +45,7 @@ A guide detailing how to build custom cursors, spotlight-reveal cards, magnetic 
 * **File**: [tailwind_cursor_tracking.md](file:///C:/Users/pacif/Desktop/UIUX/tailwind_cursor_tracking.md)
 
 ### 9. Tailwind Parallax Effects
-A developer-focused guide detailing how to implement hardware-accelerated 3D scroll parallax layers and mouse-interactive hover-depth layers using Tailwind CSS.
+A guide detailing how to implement hardware-accelerated 3D scroll parallax layers and mouse-interactive hover-depth layers using Tailwind CSS.
 * **File**: [tailwind_parallax_effects.md](file:///C:/Users/pacif/Desktop/UIUX/tailwind_parallax_effects.md)
 
 ### 10. Tailwind Hover States & Hover Effects
@@ -75,6 +75,10 @@ A curated guide listing lightweight, free Sans-Serif, Serif, Monospace, and Disp
 ### 16. Google Fonts Classification & Directory
 A curated type directory classifying the most popular and highly functional Google Fonts into Sans-Serif, Serif, Display, Handwriting/Script, and Monospace sub-categories.
 * **File**: [google_fonts_categories.md](file:///C:/Users/pacif/Desktop/UIUX/google_fonts_categories.md)
+
+### 17. Font Pairing Principles & Best Practices
+A comprehensive guide outlining guidelines for creating contrast and hierarchy, size ratios, superfamily matches, and curated Google Fonts pairing combinations.
+* **File**: [font_pairings.md](file:///C:/Users/pacif/Desktop/UIUX/font_pairings.md)
 
 ---
 
