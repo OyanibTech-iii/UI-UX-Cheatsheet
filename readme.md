@@ -10,7 +10,7 @@ Welcome to the UI/UX Resource Library. This repository contains curated referenc
 
 ## Directory Structure
 
-This library is organized into eighteen core reference modules:
+This library is organized into nineteen core reference modules:
 
 ### 1. Component Guides
 A complete reference detailing descriptions, use cases, visual design best practices, do's & don't, and accessibility (a11y) rules for every component in the shadcn/ui ecosystem.
@@ -83,6 +83,10 @@ A comprehensive guide outlining guidelines for creating contrast and hierarchy, 
 ### 18. Color Principles, Theories & Psychology
 A master reference guide on digital color models (HSL vs. RGB), harmonies, color psychology trigger meanings, layout rules, WCAG contrast accessibility, and dark mode palette optimization.
 * **File**: [color_principles.md](file:///C:/Users/pacif/Desktop/UIUX/color_principles.md)
+
+### 19. Usability, Visual Hierarchy & Accessibility (a11y) Master Guide
+A comprehensive reference guide on interface usability laws (Jakob's, Fitts's, Hick's, Miller's), eye-scanning patterns (F and Z), WCAG keyboard accessibility standards, semantic landmarks, and viewport breakout layouts.
+* **File**: [usability_hierarchy_accessibility.md](file:///C:/Users/pacif/Desktop/UIUX/usability_hierarchy_accessibility.md)
 
 ---
 
