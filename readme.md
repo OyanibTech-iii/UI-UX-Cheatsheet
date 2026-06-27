@@ -10,7 +10,7 @@ Welcome to the UI/UX Resource Library. This repository contains curated referenc
 
 ## Directory Structure
 
-This library is organized into ten core reference modules:
+This library is organized into eleven core reference modules:
 
 ### 1. Component Guides
 A complete reference detailing descriptions, use cases, visual design best practices, do's & don't, and accessibility (a11y) rules for every component in the shadcn/ui ecosystem.
@@ -51,6 +51,10 @@ A developer-focused guide detailing how to implement hardware-accelerated 3D scr
 ### 10. Tailwind Hover States & Hover Effects
 A guide outlining how to design transitions, transformations, group-hover and peer-hover triggers, and responsive custom hover effects in modern interfaces.
 * **File**: [tailwind_hover_effects.md](file:///C:/Users/pacif/Desktop/UIUX/tailwind_hover_effects.md)
+
+### 11. Interactive Motion & Motion Design Resource Directory
+A curated collection of free libraries, WebGL editors, Lottie animation catalogs, CSS timeline generators, and interactive inspiration galleries.
+* **File**: [motion_design_resources.md](file:///C:/Users/pacif/Desktop/UIUX/motion_design_resources.md)
 
 ---
 
