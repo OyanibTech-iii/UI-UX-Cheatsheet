@@ -10,7 +10,7 @@ Welcome to the UI/UX Resource Library. This repository contains curated referenc
 
 ## Directory Structure
 
-This library is organized into seventeen core reference modules:
+This library is organized into eighteen core reference modules:
 
 ### 1. Component Guides
 A complete reference detailing descriptions, use cases, visual design best practices, do's & don't, and accessibility (a11y) rules for every component in the shadcn/ui ecosystem.
@@ -79,6 +79,10 @@ A curated type directory classifying the most popular and highly functional Goog
 ### 17. Font Pairing Principles & Best Practices
 A comprehensive guide outlining guidelines for creating contrast and hierarchy, size ratios, superfamily matches, and curated Google Fonts pairing combinations.
 * **File**: [font_pairings.md](file:///C:/Users/pacif/Desktop/UIUX/font_pairings.md)
+
+### 18. Color Principles, Theories & Psychology
+A master reference guide on digital color models (HSL vs. RGB), harmonies, color psychology trigger meanings, layout rules, WCAG contrast accessibility, and dark mode palette optimization.
+* **File**: [color_principles.md](file:///C:/Users/pacif/Desktop/UIUX/color_principles.md)
 
 ---
 
