@@ -1,10 +1,14 @@
 # Icon Libraries & SVG Illustration Directory
 
+![Assets](https://img.shields.io/badge/Assets-Icons%20%26%20Illustrations-e74c3c?style=flat-square)
+![Formats](https://img.shields.io/badge/Formats-SVG%20%26%20Vector-27ae60?style=flat-square)
+![License](https://img.shields.io/badge/License-MIT%20%2F%20CC0-34495e?style=flat-square)
+
 A curated list of the best free, open-source icon libraries, SVG illustration packages, and aggregator tools for UI/UX designers and web developers.
 
 ---
 
-## 🎨 Best Practices for Using Icons in UI/UX
+## Best Practices for Using Icons in UI/UX
 
 Before choosing a library, keep these fundamental design guidelines in mind:
 
@@ -15,7 +19,7 @@ Before choosing a library, keep these fundamental design guidelines in mind:
 
 ---
 
-## 📂 Categories
+## Categories
 
 - [1. Core UI Icon Libraries (Modern & Consistent)](#1-core-ui-icon-libraries-modern--consistent)
 - [2. Massive Scale & Framework Libraries](#2-massive-scale--framework-libraries)

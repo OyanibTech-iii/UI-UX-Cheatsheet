@@ -1,5 +1,9 @@
 # shadcn/ui Component Guide: UI/UX & Accessibility Best Practices
 
+![UI Framework](https://img.shields.io/badge/UI%20Framework-shadcn%2Fui-black?style=flat-square&logo=react)
+![Guides](https://img.shields.io/badge/Guides-Best%20Practices-blue?style=flat-square)
+![A11y Compliant](https://img.shields.io/badge/A11y-Compliant-green?style=flat-square)
+
 This guide outlines design systems, use cases, visual patterns, and accessibility (a11y) considerations for every major component in the shadcn/ui ecosystem.
 
 ---

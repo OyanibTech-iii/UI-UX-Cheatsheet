@@ -1,10 +1,14 @@
 # Graphs & Data Visualization Library Directory
 
+![Data Viz](https://img.shields.io/badge/Data%20Viz-Charts%20%26%20Graphs-9b59b6?style=flat-square&logo=d3.js)
+![Integration](https://img.shields.io/badge/Integration-React%20%26%20Tailwind-38bdf8?style=flat-square&logo=tailwind-css)
+![License](https://img.shields.io/badge/License-MIT%20%2F%20Apache-2c3e50?style=flat-square)
+
 A curated resource index of the best free, open-source charting libraries, dashboard component packages, and low-level data visualization primitives for web applications.
 
 ---
 
-## 📊 UI/UX Guidelines for Data Visualization
+## UI/UX Guidelines for Data Visualization
 
 Designing usable charts requires balancing visual aesthetics with high information density:
 
@@ -19,7 +23,7 @@ Designing usable charts requires balancing visual aesthetics with high informati
 
 ---
 
-## 📂 Categories
+## Categories
 
 - [1. React-Specific Chart Libraries (Declarative & Easy)](#1-react-specific-chart-libraries-declarative--easy)
 - [2. Tailwind CSS-Native Dashboard Systems](#2-tailwind-css-native-dashboard-systems)

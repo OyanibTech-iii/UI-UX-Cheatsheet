@@ -1,10 +1,14 @@
 # UI/UX Design Inspiration Directory
 
+![UI/UX](https://img.shields.io/badge/UI%2FUX-Inspiration-f39c12?style=flat-square)
+![Resources](https://img.shields.io/badge/Resources-Directory-3498db?style=flat-square)
+![Access](https://img.shields.io/badge/Access-Free%20Resources-2ecc71?style=flat-square)
+
 A curated collection of the best free websites and galleries for UI/UX, product design, SaaS layouts, user flows, and landing page inspiration.
 
 ---
 
-## 🧭 How to Use This Directory (The 3-Step Research Method)
+## How to Use This Directory (The 3-Step Research Method)
 
 To build premium interfaces, don't just copy screenshots. Follow this industry-standard design workflow when doing visual research:
 
@@ -18,7 +22,7 @@ To build premium interfaces, don't just copy screenshots. Follow this industry-s
 
 ---
 
-## 📂 Categories
+## Categories
 
 - [1. Real-World User Flows & App UX](#1-real-world-user-flows--app-ux)
 - [2. SaaS Dashboards & Interface Layouts](#2-saas-dashboards--interface-layouts)
