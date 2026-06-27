@@ -10,7 +10,7 @@ Welcome to the UI/UX Resource Library. This repository contains curated referenc
 
 ## Directory Structure
 
-This library is organized into thirteen core reference modules:
+This library is organized into fourteen core reference modules:
 
 ### 1. Component Guides
 A complete reference detailing descriptions, use cases, visual design best practices, do's & don't, and accessibility (a11y) rules for every component in the shadcn/ui ecosystem.
@@ -63,6 +63,10 @@ A comprehensive quick-reference cheat sheet of all keyboard hotkeys for Figma de
 ### 13. Figma Keyboard Shortcuts (macOS)
 A comprehensive quick-reference cheat sheet of all keyboard hotkeys for Figma design, vector editing, components, auto layout, and multiplayer operations on macOS.
 * **File**: [figma_shortcuts_mac.md](file:///C:/Users/pacif/Desktop/UIUX/figma_shortcuts_mac.md)
+
+### 14. Affinity Suite Keyboard Shortcuts (Windows)
+A comprehensive quick-reference cheat sheet of all keyboard hotkeys for Affinity Designer, Photo, and Publisher workspaces on Windows.
+* **File**: [affinity_shortcuts_windows.md](file:///C:/Users/pacif/Desktop/UIUX/affinity_shortcuts_windows.md)
 
 ---
 
